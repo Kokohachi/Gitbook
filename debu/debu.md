@@ -14,4 +14,4 @@ Sonolusはまだ開発中のため、App Store や Google Playにはありませ
 
 ## <mark style="color:purple;"></mark>[<mark style="color:purple;">iOS (iPhone,iPad等）</mark>](iosnisonoluswoinsutrusuru.md#pasokon-winmac-hatteimasuka)<mark style="color:purple;"></mark>
 
-## <mark style="color:purple;">Android</mark>
+## <mark style="color:purple;"></mark>[<mark style="color:purple;">Android</mark>](androidnisonoluswoinsutrusuru.md)<mark style="color:purple;"></mark>
