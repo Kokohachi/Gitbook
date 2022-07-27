@@ -4,7 +4,7 @@ description: インストールに失敗した場合
 
 # インストールに失敗した時
 
-## 以下のサーバーに入って#?質問チャンネルで質問してください。
+## 以下のサーバーに入って<mark style="color:green;">#</mark><mark style="color:red;">?</mark><mark style="color:green;">質問</mark>チャンネルで質問してください。
 
 ## <mark style="color:purple;">**紫式部サーバー**</mark>
 
